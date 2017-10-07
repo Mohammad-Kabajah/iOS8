@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "N0x-WH-IHM"; */
+"N0x-WH-IHM.text" = "Company";
+
+/* Class = "UIButton"; normalTitle = "Change Security"; ObjectID = "RJs-Kp-QMU"; */
+"RJs-Kp-QMU.normalTitle" = "Change Security";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "YNG-YD-RRR"; */
+"YNG-YD-RRR.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "sdb-aS-rjb"; */
+"sdb-aS-rjb.text" = "UserName";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "vhP-O7-0Q5"; */
+"vhP-O7-0Q5.text" = "Password";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "wFd-fC-TiF"; */
+"wFd-fC-TiF.text" = "Name";
